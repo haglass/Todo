@@ -1,0 +1,14 @@
+body {
+  background-color: rgb(147, 233, 233);
+}
+.container {
+  margin: auto;
+  max-width: 600px;
+}
+.toodoBlock {
+  padding: 30px;
+  margin-top: px;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: -9px 17px 13px rgb(0 0 0 / 16%);
+}
